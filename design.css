@@ -1,0 +1,54 @@
+.container{
+    
+	background-color: #20B2AA;
+	height:420px;
+	width: 300px;
+	border-radius: 8px;
+	position: relative;
+	top:100px;
+	left: 40%;
+}
+
+.screen input{
+	position: relative;
+	left: 12px;
+	top:13px;
+	height:56px;
+	width: 266px;
+	color:black;
+	background-color: #e5dfa0;
+	font-size: 25px;
+	text-align:right;
+}
+.btns{
+	position: relative;
+	top:20px;
+	left: 27px;
+}
+.button{
+	height:45px;
+	width:45px;
+	border: none;
+	border-radius: 7px;
+	margin-left: 10px;
+	cursor: pointer;
+	font-size: 25px;
+}
+.button.black{
+	color:pink;
+	background-color: black;
+	border-bottom: 2px solid #647489;
+	border-top:2px black;
+}
+.button.silver{
+	color:pink;
+	background-color: #647489;
+	border-bottom: 2px solid black;
+	
+}
+.button.red{
+	color:pink;
+	background-color: red;
+	border-bottom: 2px solid #647489;
+	
+}
